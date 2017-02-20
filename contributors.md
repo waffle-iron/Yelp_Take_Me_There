@@ -1,27 +1,21 @@
 # Take Me There Team (Alphabetical)
 * **[Anum Qureshi](https://github.com/sujiko)**
-
-    *a
+    * a
 
 * **[Hunter Renard](https://github.com/RenardHJ)**
-
-    *a
+    * a
 
 * **[Mikaela Goldrich](https://github.com/mikaelagoldrich)**
-    
-    *a
+    * a
 
 * **[Joshua Mwandu](https://github.com/jmwandu)**
-    
-    *a
+    * a
 
 * **[Mikaela Goldrich](https://github.com/mikaelagoldrich)**
-    
-    *a
+    * a
 
 * **[Zacharky Zwierko]()**
-    
-    *a
+    * a
 
 ## With Thanks To
 * **[Adam Vandover](https://github.com/adam2k)**
