@@ -37,4 +37,4 @@ The Goggle Maps Static Maps API has been added to provide a image of the map to 
 
 The Crime Score API is an add-on to the Google API  and provides pinpoints of the location and type of crimes in the area. 
 
-### **[Contributors](https://github.com/RenardHJ/Yelp_Take_Me_There/blob/master/contributors.md)**
+## **[Contributors](https://github.com/RenardHJ/Yelp_Take_Me_There/blob/master/contributors.md)**
