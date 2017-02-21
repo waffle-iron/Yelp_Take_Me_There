@@ -19,6 +19,6 @@
 
 * **[Chad Gray](https://github.com/chadicus)**
 
-* **[Rodrigo Torres](https://github.com/rt-heroku)**
-
 * **[Justin Russell](https://www.linkedin.com/in/justin-russell-8234676a/)**
+
+* **[Rodrigo Torres](https://github.com/rt-heroku)**
