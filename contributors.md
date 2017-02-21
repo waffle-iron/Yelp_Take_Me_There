@@ -21,4 +21,4 @@
 
 * **[Rodrigo Torres](https://github.com/rt-heroku)**
 
-* **[Justin Russell]()**
+* **[Justin Russell](https://www.linkedin.com/in/justin-russell-8)**
