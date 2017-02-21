@@ -22,4 +22,4 @@
 
 * **[Chad Gray](https://github.com/chadicus)**
 
-* **[??](https://github.com/rt-heroku)**
+* **[Rodrigo Torres](https://github.com/rt-heroku)**
