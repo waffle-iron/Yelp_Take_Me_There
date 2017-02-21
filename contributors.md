@@ -5,9 +5,6 @@
 * **[Hunter Renard](https://github.com/RenardHJ)**
     * enter role
 
-* **[Mikaela Goldrich](https://github.com/mikaelagoldrich)**
-    * enter role
-
 * **[Joshua Mwandu](https://github.com/jmwandu)**
     * enter role
 
@@ -23,3 +20,5 @@
 * **[Chad Gray](https://github.com/chadicus)**
 
 * **[Rodrigo Torres](https://github.com/rt-heroku)**
+
+* **[Justin Russell]()**
