@@ -1,7 +1,7 @@
 # umw-goats
 DE Hack U 5 Student Repository
 
-## **[Contributors](https://github.com/RenardHJ/Yelp_Take_Me_There/blob/master/contributors.md)**
+### **[Contributors](https://github.com/RenardHJ/Yelp_Take_Me_There/blob/master/contributors.md)**
 
 ## Installation
 
